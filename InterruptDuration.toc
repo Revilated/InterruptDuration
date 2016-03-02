@@ -1,0 +1,11 @@
+﻿## Interface: 60000
+## Title: InterruptDuration
+## Version: 1.3.10
+## Author: Revilated
+## SavedVariables: InterruptDurationOptions_Global
+## SavedVariablesPerCharacter: InterruptDurationOptions_Character
+## Notes: Shows the durations of player and party interrupts on enemy
+## Notes-ruRU: Показывает длительность прерываний игрока и группы на противнике
+Localization.lua
+ConfigFrame.lua
+InterruptDuration.lua

@@ -1,0 +1,38 @@
+1.1.0
+- Added options window in Interface/Modifications
+1.2.0 
+- Added the second frame for tracking party interrupts 
+- Each of the frames now can be enabled or disabled
+- Deadly Throw added in the interrupts list 
+1.2.1
+- Fixed a bug where frames' positions have reseted after logout
+1.2.2
+- Added per character saved variables
+- Saved variables now will be changed correctly after running the new version of the addon
+1.3.0
+- Added  a timer and the option to disable or enable it
+1.3.1
+- Added a slash command to open configuration window
+1.3.2
+- Fixed a bug where an old Skull Bash id has been tracked. In result Ferals and Guardians 
+interrupts haven't displayed 
+1.3.3
+- Rebuilded the way changes have applied to the frames by options window. In result memory
+usage is now normalized.
+1.3.4
+- Configuration window now also can be opened by right clicking on the InterruptDuration frames.
+1.3.5
+- The addon now must works correct with "ElvUI"
+1.3.6
+- .toc change for 5.3
+1.3.7 
+- Fixed a bug where frames were hiding before interrupt duration expires
+- Added a one second delay to hide frame when interrupt duration expired
+1.3.8
+- .toc change for 5.4
+- added Counter Shot
+1.3.9
+- added Disrupting Shout
+1.3.10
+- Update for WoD 6.0.2
+
